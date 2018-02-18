@@ -1,1 +1,13 @@
-[{"quote":"Only I can change my life. No one can do it for me.","by":"carol_burnett"},{"quote":"When you have a dream, you've got to grab it and never let go.","by":"charles r swindoll"}]
+[{"quote":"Talk is cheap. Show me the code." ,"by":"Linus Torvalds"},
+ {"quote":"when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.","by":"Why The Lucky Stiff"},
+ {"quote":"Programs must be written for people to read, and only incidentally for machines to execute.", "by":" Harold Abelson"},
+ {"quote":"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live","by":"John Woods"},
+ {"quote":"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.","by":" Rick Cook"},
+ {"quote":"That's the thing about people who think they hate computers. What they really hate is lousy programmers.","by":"Larry Niven"},
+ {"quote":"I'm not a great programmer; I'm just a good programmer with great habits.","by":"Kent Beck"},
+ {"quote":"You've baked a really lovely cake, but then you've used dog shit for frosting.","by":"steve jobs"},
+ {"quote":"A language that doesn't affect the way you think about programming is not worth knowing.","by":"Alan J. Perlis"},
+ {"quote":"Walking on water and developing software from a specification are easy if both are frozen.","by":"Edward Berard"},
+ {"quote":"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.","by":"Martin Fowler"},
+ {"quote":"The most disastrous thing that you can ever learn is your first programming language.","by":"Alan Kay"},
+ {"quote":"Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches","by":" Paul Graham"}]
