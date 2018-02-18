@@ -1,0 +1,18 @@
+{
+  "name": "node-motivation",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  },
+  "version": "1.0.0",
+  "description": "Quotes for programmers so they became productive as hell!",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "motivation"
+  ],
+  "author": "yashraj basan",
+  "license": "ISC"
+}
