@@ -1,6 +1,7 @@
 # node-motivation
-cli app for programmers and developers to fight from demotivation.this cli app is created using yargs library
-check it out:https://github.com/yargs/yargs
+
+cli app for programmers and developers to fight from demotivation.this cli app is created using yargs library.check it out:https://github.com/yargs/yargs
+
 commands 
 -----------------------------------------------------------------------
 node app.js motivation - get motivational quotes
